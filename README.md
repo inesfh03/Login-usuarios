@@ -1,2 +1,2 @@
 # Documentación 
-Este es un repositorio de pruebas 
+Este es un repositorio INICIAL DE NSQUE 
